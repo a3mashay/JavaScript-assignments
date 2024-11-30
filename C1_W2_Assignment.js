@@ -1,4 +1,4 @@
-import { FMnistData } from 'https://raw.githubusercontent.com/https-deeplearning-ai/tensorflow-2-public/refs/heads/main/C1_Browser-based-TF-JS/W2/assignment/fashion-data.js';
+import { FMnistData } from './fashion-data.js';
 
 let canvas, ctx, saveButton, clearButton;
 let pos = { x: 0, y: 0 };
